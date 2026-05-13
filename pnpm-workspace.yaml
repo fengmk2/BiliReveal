@@ -18,4 +18,4 @@ peerDependencyRules:
     vitest: '*'
 minimumReleaseAgeExclude:
   - vite-plus
-  - "@voidzero-dev/*"
+  - '@voidzero-dev/*'
