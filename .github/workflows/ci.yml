@@ -14,6 +14,9 @@ on:
     paths:
       - '**.ts'
       - '.github/workflows/**'
+      - 'package.json'
+      - 'pnpm-workspace.yaml'
+      - 'pnpm-lock.yaml'
   workflow_dispatch:
 
 jobs:
